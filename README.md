@@ -1,4 +1,4 @@
-#  Fashion Trends Analysis — Google Trends 2022–2025
+# 👗 Fashion Trends Analysis — Google Trends 2022–2025
 
 > Analyse de l'évolution de trois tendances mode majeures via l'API Google Trends — time series, heatmap saisonnière et insights actionnables pour Maisons de mode et de luxe.
 
